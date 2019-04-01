@@ -9,13 +9,13 @@
 -	Install the app 
 # 2.	Android studio 
 -	Download and install android studio from the following link https://developer.android.com/studio or follow the following link for help and installation guide for pc https://www.youtube.com/watch?v=1-k5KMj8IJQ or for mac https://www.youtube.com/watch?v=br-1VuwIjd8
--	Extract zip file attached or downloaded from Github 
+-	Extract zip file attached or downloaded from Github by going to File -> New -> Project from Version Control -> GitHub. Then enter your   github username and password.Select the repository and hit clone inside of android studio.
 -	Import project like shown below
--	Click on the following icon 
+-	Click on the following on play icon
 -	Click on create new virtual device 
 -	Choose any virtual device you would like 
 -	Choose and system image you would like 
--	And final hit finish
+-	And finally hit finish
 -	Wait for it to load and start the app
 -	To run unit testing inside the file com.example.tic_tac_toe_shipt(test) click and run the files for each class
 
