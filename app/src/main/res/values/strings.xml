@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic-tac-toe Shipt</string>
+    <string name="activity1Testview1">Welcome To Tic Tac Toe</string>
+    <string name="activity1Testview2">This app was created as code challenge for Shipt\'s interview </string>
+    <string name="activity1Button1Start">Start Game</string>
+    <string name="activity2Testview1">Please Enter Player 1 and Player 2 Names then click Ready!!</string>
+    <string name="activity2Testview2Player1">Player 1</string>
+    <string name="activity2Testview3Player2">Player 2</string>
+    <string name="activity2Testview2Hint1">Enter Player 1 Name</string>
+    <string name="activity2Testview3Hint2">Enter Player 2 Name</string>
+    <string name="activity2Button1Ready">Ready!!</string>
+    <string name="activity3Testview1">  Player : Turn</string>
+    <string name="activity3Button1Start">Start A New Game</string>
+    <string name="play_again">Play Again</string>
+    <string name="quitBtn">Quit</string>
+    <string name="msgboxtextview">TextView</string>
+    <string name="msgboxtextview2">TextView</string>
+</resources>
