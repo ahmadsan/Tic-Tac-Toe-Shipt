@@ -2,7 +2,7 @@
 ### By Ahmad Antar
 ### AhmadAntar3@gmail.com
 
-## Instructions
+# Instructions
 # 1.	Play Store
 -	On your android device navigate to play store 
 -	Go to https://play.google.com/store/apps/details?id=com.AAntar.tic_tac_toe_shipt
