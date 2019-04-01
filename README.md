@@ -17,7 +17,7 @@
 -	Choose and system image you would like 
 -	And final hit finish
 -	Wait for it to load and start the app
--	To run unit testing inside the click on com.example.tic_tac_toe_shipt(test) and run the files
+-	To run unit testing inside the file com.example.tic_tac_toe_shipt(test) click and run the files for each class
 
 # Discussion
  I used java to build the app using android studio and showcase 
